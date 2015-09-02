@@ -1,0 +1,9 @@
+
+AuthType Basic
+
+AuthName "Please enter the course username and password (found on syllabus), or email Cassandra Fraser (cfraser@virginia.edu) to gain access to protected resources."
+
+AuthUserFile "/home/dm2005/.htpasswds/uploads/media/passwd"
+
+
+require valid-user
